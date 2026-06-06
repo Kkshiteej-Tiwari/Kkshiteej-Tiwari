@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a developer based in Maharashtra, India. I hav
 💭 *Note: I may be slow to respond, but I'm always deep in thought (or code)!*
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** Python, Java, JavaScript
+- **Languages:** Python, C++, C, Java, JavaScript
 - **Data & Analytics:** Jupyter Notebook, Statistical Analysis, Data Modeling
 - **Interests:** Hackathons, Full-Stack Development, AI Tools
 
