@@ -74,12 +74,7 @@ OOP-driven banking system modelling 3+ account types (Savings, Current, Fixed De
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kkshiteej-Tiwari&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkshiteej-Tiwari&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
 
 ---
 
