@@ -16,9 +16,9 @@
 
 I'm a second-year B.Tech student in Computer Science at **IIIT Bangalore** (CGPA: 3.42/4.00), passionate about building things that are fast, reliable, and thoughtfully designed — whether that's a low-level C server or a full-stack web platform.
 
-- 🏗️ I enjoy working across the stack — from POSIX threads and TCP sockets to React frontends and REST APIs
-- 🤖 Interested in integrating AI into real-world products (LLM-powered search, face detection, and more)
-- 🏆 **JEE Mains 99.65 percentile** among 1.6M+ candidates | **Top 10** at Klymo Ascent 1.0 Hackathon
+-  I enjoy working across the stack — from POSIX threads and TCP sockets to React frontends and REST APIs
+-  Interested in integrating AI into real-world products (LLM-powered search, face detection, and more)
+-  **JEE Mains 99.65 percentile** among 1.6M+ candidates | **Top 10** at Klymo Ascent 1.0 Hackathon
 
 ---
 
