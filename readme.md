@@ -1,39 +1,88 @@
-# Hi there, I'm Kkshiteej Tiwari 👋
+<h1 align="center">Hi, I'm Kkshiteej Tiwari 👋</h1>
 
-Welcome to my GitHub profile! I'm a developer based in Maharashtra, India. I have a strong interest in data science, statistical analysis, and building practical applications. I actively participate in hackathons and enjoy tackling complex, data-heavy problems.
+<p align="center">
+  <b>CS Undergrad @ IIIT Bangalore</b> &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Systems Enthusiast
+</p>
 
-💭 *Note: I may be slow to respond, but I'm always deep in thought (or code)!*
+<p align="center">
+  <a href="mailto:Kkshiteej.Tiwari@iiitb.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kkshiteej-tiwari-b010a0373"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Kkshiteej-Tiwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-## 🛠️ Tech Stack & Tools
-- **Languages:** Python, C++, C, Java, JavaScript
-- **Data & Analytics:** Jupyter Notebook, Statistical Analysis, Data Modeling
-- **Interests:** Hackathons, Full-Stack Development, AI Tools
+---
+
+## About Me
+
+I'm a second-year B.Tech student in Computer Science at **IIIT Bangalore** (CGPA: 3.42/4.00), passionate about building things that are fast, reliable, and thoughtfully designed — whether that's a low-level C server or a full-stack web platform.
+
+- 🏗️ I enjoy working across the stack — from POSIX threads and TCP sockets to React frontends and REST APIs
+- 🤖 Interested in integrating AI into real-world products (LLM-powered search, face detection, and more)
+- 🏆 **JEE Mains 99.65 percentile** among 1.6M+ candidates | **Top 10** at Klymo Ascent 1.0 Hackathon
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+`C/C++` `Java` `Python` `JavaScript` `HTML5` `CSS3`
+
+**Frameworks & Libraries**
+`React.js` `Next.js` `Node.js` `Express.js` `Spring Boot` `Socket.io`
+
+**Databases & Tools**
+`PostgreSQL` `MySQL` `Docker` `Git` `Linux`
+
+**AI & APIs**
+`Google Gemini 1.5` `Groq Llama 3.1`
+
+---
 
 ## 🚀 Featured Projects
 
-* 📊 **[UIDAI_DATA_HACKATHON](https://github.com/Kkshiteej-Tiwari/UIDAI_DATA_HACKATHON)** & **[UIDAI_Statistical_Analysis](https://github.com/Kkshiteej-Tiwari/UIDAI_Statistical_Analysis)**
-  My project submissions for the UIDAI Hackathon. These repositories focus on deep statistical analysis, data insights, and feature engineering using Python and Jupyter Notebooks.
+### 🅿️ [Parking Slot Management System](https://github.com/Kkshiteej-Tiwari/Parking-Slot-Management-System)
+`C` `POSIX` `Pthreads` `TCP Sockets` `Shared Memory`
 
-* 💬 **[GreyRoom](https://github.com/Kkshiteej-Tiwari/GreyRoom)**
-  An anonymous chatting application built with JavaScript.
-
-* ⚙️ **[Ooptimized](https://github.com/Kkshiteej-Tiwari/Ooptimized)**
-  An optimization-focused project built using Java.
-
-* 🤝 **Open Source & Collaborations**
-  Actively forking and exploring collaborative projects like **[ShikshaLokam](https://github.com/Kkshiteej-Tiwari/ShikshaLokam)** and **[ResiDo](https://github.com/Kkshiteej-Tiwari/ResiDo)**.
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kkshiteej-Tiwari&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkshiteej-Tiwari&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
-
-## 📫 How to Reach Me
-- 📍 **Location:** Maharashtra, India
-- 💼 **LinkedIn:** [Kkshiteej Tiwari](https://www.linkedin.com/in/kkshiteej-tiwari-b010a0373)
-- ✉️ **Email:** [Kkshiteej.Tiwari@iiitb.ac.in](mailto:Kkshiteej.Tiwari@iiitb.ac.in)
+A multi-user client-server system in C supporting up to **10 concurrent clients** via pthreads, mutex locks, and POSIX semaphores. Features 3-tier role-based access (Admin/Operator/User) across 8 commands, `flock()`-based locking to prevent race conditions, and a shared-memory circular buffer for activity logging.
 
 ---
-⭐️ *Thanks for visiting! Feel free to explore my repositories or reach out for collaborations.*
+
+### 🏠 [ResiDo — Real Estate Platform](https://github.com/Kkshiteej-Tiwari/ResiDo)
+`React` `Node.js` `Express` `PostgreSQL` `Firebase` `Groq`
+
+Full-stack real estate marketplace with **258+ properties** across 10 Indian cities. Led as **Team Lead** — built Firebase auth (Google OAuth + Phone OTP), 360° virtual tours (Marzipano, 27 room types), a **Groq Llama 3.1 70B** AI search chatbot, interactive Leaflet.js maps, EMI calculator, and a Chart.js analytics dashboard.
+
+---
+
+### 💬 [GreyRoom — Anonymous Chat Platform](https://github.com/Kkshiteej-Tiwari/GreyRoom)
+`Next.js` `React` `Socket.io` `face-api.js` `Node.js`
+
+Privacy-first anonymous chat with **in-browser facial verification** — face detection runs entirely client-side, so zero images are ever sent to the server. Features a Socket.io matching engine with sub-**100ms** pairing latency and a stateless SSR frontend decoupled from the backend for independent horizontal scaling.
+
+---
+
+### 🏦 [Ooptimized — Digital Banking System](https://github.com/Kkshiteej-Tiwari/Ooptimized)
+`Java` `Spring Boot`
+
+OOP-driven banking system modelling 3+ account types (Savings, Current, Fixed Deposit) via inheritance and polymorphism. Exposes a clean Spring Boot REST API across a 3-layer architecture (models/services/controllers), built for extensibility.
+
+---
+
+## 📚 Coursework
+
+`Data Structures` `Algorithms` `OOP` `Operating Systems` `DBMS` `Algorithm Analysis` `Computer Networks` `Software Engineering`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kkshiteej-Tiwari&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkshiteej-Tiwari&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to internships, collaborations, and interesting problems. Feel free to reach out!</i>
+</p>
