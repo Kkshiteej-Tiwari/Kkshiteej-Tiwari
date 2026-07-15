@@ -28,7 +28,7 @@ I'm a second-year B.Tech student in Computer Science at **IIIT Bangalore** (CGPA
 `C/C++` `Java` `Python` `JavaScript` `HTML5` `CSS3`
 
 **Frameworks & Libraries**
-`React.js` `Next.js` `Node.js` `Express.js` `Spring Boot` `Socket.io`
+`React.js` `Node.js` `Socket.io`
 
 **Databases & Tools**
 `PostgreSQL` `MySQL` `Docker` `Git` `Linux`
